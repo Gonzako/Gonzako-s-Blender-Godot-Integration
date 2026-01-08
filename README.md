@@ -11,3 +11,13 @@ The plugin assumes the following project structure:
       |_ where exported assest will be placed and processed into their respective .tscn
 
 
+## Current plan
+Getting the plugin into an initial working state for exporting assets is the main goal at this very moment
+
+## Future plans
+· A simple onboarding experience where downloading the plugin from the Godot website should just work.
+
+· Animation and character exports
+
+## License
+This code is licensed Creative Commons Attribution 4.0 just as its predecesor by Simon Thommes licensed his code in. 
