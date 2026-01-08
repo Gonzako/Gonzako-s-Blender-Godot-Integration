@@ -4,7 +4,7 @@ OS agnostic rewrite of the Dogwalk Blender to Godot pipeline with some minor imp
 ## Project structure
 The plugin assumes the following project structure:
 
-    Godot project\
+    [Godot project]\
     |_ blender project\
       |_ where .blend files will be placed. Subfolders are allowed
     |_ exported game\
