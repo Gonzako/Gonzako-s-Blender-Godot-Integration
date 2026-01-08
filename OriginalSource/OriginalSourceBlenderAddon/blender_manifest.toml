@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "GLTF_EXT_blender_studio_godot_io"
+name = "glTF Extension for i/o with Godot"
+version = "0.0.1"
+tagline = "glTF extension for project level i/o with Godot"
+maintainer = "Blender Studio"
+type = "add-on"
+permissions = ["files"]
+tags = ["Import-Export"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://studio.blender.org"
+copyright = ["Blender Foundation"]
